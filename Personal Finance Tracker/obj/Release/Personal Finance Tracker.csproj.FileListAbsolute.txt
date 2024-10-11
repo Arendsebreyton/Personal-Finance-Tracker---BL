@@ -1,0 +1,19 @@
+C:\Users\Breyton\Desktop\Personal Finance Tracker\bin\Release\Personal Finance Tracker.exe
+C:\Users\Breyton\Desktop\Personal Finance Tracker\bin\Release\Personal Finance Tracker.pdb
+C:\Users\Breyton\Desktop\Personal Finance Tracker\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Breyton\Desktop\Personal Finance Tracker\obj\Release\Personal_Finance_Tracker.Form1.resources
+C:\Users\Breyton\Desktop\Personal Finance Tracker\obj\Release\Personal_Finance_Tracker.Form10.resources
+C:\Users\Breyton\Desktop\Personal Finance Tracker\obj\Release\Personal_Finance_Tracker.Form11.resources
+C:\Users\Breyton\Desktop\Personal Finance Tracker\obj\Release\Personal_Finance_Tracker.Form12.resources
+C:\Users\Breyton\Desktop\Personal Finance Tracker\obj\Release\Personal_Finance_Tracker.Form2.resources
+C:\Users\Breyton\Desktop\Personal Finance Tracker\obj\Release\Personal_Finance_Tracker.Form3.resources
+C:\Users\Breyton\Desktop\Personal Finance Tracker\obj\Release\Personal_Finance_Tracker.Form4.resources
+C:\Users\Breyton\Desktop\Personal Finance Tracker\obj\Release\Personal_Finance_Tracker.Form5.resources
+C:\Users\Breyton\Desktop\Personal Finance Tracker\obj\Release\Personal_Finance_Tracker.Form6.resources
+C:\Users\Breyton\Desktop\Personal Finance Tracker\obj\Release\Personal_Finance_Tracker.Form7.resources
+C:\Users\Breyton\Desktop\Personal Finance Tracker\obj\Release\Personal_Finance_Tracker.Form8.resources
+C:\Users\Breyton\Desktop\Personal Finance Tracker\obj\Release\Personal_Finance_Tracker.Form9.resources
+C:\Users\Breyton\Desktop\Personal Finance Tracker\obj\Release\Personal_Finance_Tracker.Properties.Resources.resources
+C:\Users\Breyton\Desktop\Personal Finance Tracker\obj\Release\Personal Finance Tracker.csproj.GenerateResource.Cache
+C:\Users\Breyton\Desktop\Personal Finance Tracker\obj\Release\Personal Finance Tracker.exe
+C:\Users\Breyton\Desktop\Personal Finance Tracker\obj\Release\Personal Finance Tracker.pdb
